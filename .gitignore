@@ -1,0 +1,9 @@
+.idea
+*.iws
+*.iml
+*.ipr
+
+target/
+test-output/
+src/test/resources/properties/
+*.env
